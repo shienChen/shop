@@ -1,0 +1,44 @@
+{
+  "name": "vue-todolist",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "echarts": "^5.1.2",
+    "element-china-area-data": "^5.0.2",
+    "element-ui": "^2.15.5",
+    "lodash": "^4.17.21",
+    "nanoid": "^3.1.23",
+    "node-sass": "^6.0.1",
+    "nprogress": "^0.2.0",
+    "vue": "^2.5.17",
+    "vue-quill-editor": "^3.0.6",
+    "vue-router": "^3.0.1",
+    "vue-table-with-tree-grid": "^0.2.4",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.0.0-rc.12",
+    "@vue/cli-plugin-eslint": "^3.0.0-rc.12",
+    "@vue/cli-service": "^3.0.0-rc.12",
+    "eslint": "^7.32.0",
+    "eslint-loader": "^4.0.2",
+    "sass-loader": "^7.0.3",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^4.7.2"
+  },
+  "description": "本项目是仿照这个做滴  [ToDoList](http://www.todolist.cn/) 。使用Vue实现这个代办事项功能。完整的项目在这里[GitHub vue-todolist](https://github.com/yiluyanxia/vue-todolist)。 ## （一）基本功",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
